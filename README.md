@@ -1,2 +1,2 @@
-# bullets-and-walls
-bullet's damage testing made by visual code studio
+# p5.play-boilerplate
+Boiler plate for p5.play
